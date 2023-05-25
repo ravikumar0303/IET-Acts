@@ -1,0 +1,41 @@
+
+	coomand line arg 
+
+		javac <fn>.java   Compile  - 1) Syntax 
+				           2) declared ?
+					method  Signurature 
+			.class 
+
+				main () {  } 
+
+
+				 java class name   .class memory 
+				s.o.p. (e);   
+		main loaded  - static variables 
+
+
+			;
+	c++   destructor
+
+	Construct 
+		release  -  Garabage Collector   - scope , use 
+
+	Variables   Data Type 
+				Account 
+
+		Scope 3 
+
+		local vari  -  method     stack 
+		
+		instance var  - per instance heap 
+
+		static    Single 
+
+	Memory Allocation    ---- stack . heap 
+
+		Object   === new 
+ Main Object 
+
+		Methods  parameters , No parameters 
+
+		pass by ref  -  Java 

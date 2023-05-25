@@ -1,0 +1,77 @@
+Array   Concept 
+
+	Operations
+
+
+	javadoc -  package  - collection class -  interface 
+		
+	4 digits
+
+		1234  --  / %
+	position , number 
+	String s = sc.next();
+	char c [ ] = s.toCharArray();  // length  ,  index 
+
+		String  - 	charArray 
+
+
+	Array 
+
+	<data type> [  ] arr ;   declaration 
+
+	<data type> arr [ ] ;
+
+	int [ ] arr ;   arr  = new int[ 5 ] ;   // instance Arrays size 
+
+
+	arr[0]  = 1 ;   arr[1]  = 2 ;  arr[2]  = 3 ;  // assign value to array 
+
+
+--------------------------------------------
+
+	int arr1[ ] = new int [ ] { 1,2,3,4,5    } ; 
+
+
+------------------------------------
+	Single Account 
+
+	Account multiple   --- 
+	int a[ ] 
+main 	Account acc [ ] = new Account [5];  // array of account class Objects  
+
+acc --- stack 
+
+heap  --- 
+	createAccount  /// 5 account 
+	acc[0] =  new Account ();
+	acc[1] =  new Account ();
+---------------------------------------
+
+	TestAccount 
+
+	static block  before main 
+
+	Account acc [ ] = new Account [5];
+
+	acc[0] =  new Account ();
+	acc[1] =  new Account ();
+
+
+
+--------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
